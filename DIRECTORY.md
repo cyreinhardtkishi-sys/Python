@@ -3,7 +3,7 @@
   * [Butterworth Filter](audio_filters/butterworth_filter.py)
   * [Iir Filter](audio_filters/iir_filter.py)
   * [Show Response](audio_filters/show_response.py)
-
+  &* 
 ## Backtracking
   * [All Combinations](backtracking/all_combinations.py)
   * [All Permutations](backtracking/all_permutations.py)
@@ -26,7 +26,7 @@
   * [Word Break](backtracking/word_break.py)
   * [Word Ladder](backtracking/word_ladder.py)
   * [Word Search](backtracking/word_search.py)
-
+  *
 ## Bit Manipulation
   * [Binary And Operator](bit_manipulation/binary_and_operator.py)
   * [Binary Coded Decimal](bit_manipulation/binary_coded_decimal.py)
